@@ -1,6 +1,7 @@
 # Optimization Algorithm Visualizer
 
 Interactive Streamlit apps for four optimization algorithms.
+Each student should fork this repo, deploys their own copy, and submits their Streamlit Cloud link.
 
 ## Apps included
 
@@ -27,8 +28,7 @@ streamlit run Home.py
 5. Click **Deploy** — you get a public link like:
    `https://your-app-name.streamlit.app`
 
-Share that link with students. Each student forks the repo,
-deploys their own copy, and submits their Streamlit Cloud link.
+
 
 ## File structure
 
