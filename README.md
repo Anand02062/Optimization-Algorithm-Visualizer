@@ -1,5 +1,16 @@
 # Optimization Algorithm Visualizer
 
+## Live Demo
+https://omprakash-optimization-klef.streamlit.app/
+
+## Description
+This project visualizes optimization algorithms like:
+- Genetic Algorithm
+- Simulated Annealing
+- Hill Climbing
+
+It helps understand how optimization works step by step.# Optimization Algorithm Visualizer
+
 Interactive Streamlit apps for four optimization algorithms.
 Each student should fork this repo, deploys their own copy, and submits their Streamlit Cloud link.
 
